@@ -27,5 +27,4 @@ I aspire to become a Software Developer or Cybersecurity Consultant, leveraging 
 
 📫 How to Reach Me
 Email: shufordm@cwu.edu
-LinkedIn: [Your LinkedIn Profile]
 Feel free to browse through my projects and let’s connect!
