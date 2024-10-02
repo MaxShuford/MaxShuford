@@ -1,5 +1,6 @@
 👋 Welcome to My GitHub Profile
-Hello! I’m Max Shuford, currently pursuing a degree in Computer Science at Central Washington University (Class of 2025) with a strong passion for problem-solving, software development, and cybersecurity.
+
+I’m Max Shuford, currently pursuing a degree in Computer Science at Central Washington University (Class of 2025) with a strong passion for problem-solving, software development, and cybersecurity.
 
 🔭 What I'm Working On
 Cybersecurity Projects: Exploring vulnerabilities, penetration testing, and developing secure systems.
