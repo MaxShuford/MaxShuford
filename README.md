@@ -2,10 +2,10 @@
 
 <div align="center">
 
-### Software Engineering
+### Software engineering with a systems mindset
 
 Computer Science graduate from **Central Washington University** building  
-**maintainable applications, java plugins, computer-vision systems, and optimization software, fun projects**.
+**maintainable applications, developer tooling, computer-vision systems, and optimization software**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaxShuford-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxShuford)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Shuford-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-shuford/)
@@ -17,9 +17,9 @@ Computer Science graduate from **Central Washington University** building
 ## About Me
 
 - 2026 Computer Science graduate from Central Washington University
-- Collaborated on **SpeakSL**, an ASL-to-speech desktop application
-- Experience with multithreading, modular integration, optimization, and desktop packaging
-- Interested in Java/RuneLite plugins debugging, and building helpful software
+- Principal developer on **SpeakSL**, an ASL-to-speech desktop application
+- Experienced in multithreading, modular integration, optimization, Java/RuneLite plugins, and desktop packaging
+- Focused on turning complex, interconnected systems into software that is easier to understand, maintain, and ship
 
 <img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
@@ -28,55 +28,55 @@ Computer Science graduate from **Central Washington University** building
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-B91C1C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B91C1C?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-B91C1C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-B91C1C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-B91C1C?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B91C1C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-B91C1C?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B91C1C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-B91C1C?style=for-the-badge)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-111111?style=for-the-badge)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-B91C1C?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-B91C1C?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Frameworks, Applications & APIs
 
-![PyQt5](https://img.shields.io/badge/PyQt5-B91C1C?style=for-the-badge&logo=qt&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-111111?style=for-the-badge&logo=qt&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-B91C1C?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-B91C1C?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-B91C1C?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
 ![RuneLite Plugins](https://img.shields.io/badge/RuneLite_Plugins-111111?style=for-the-badge&logo=runescape&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-B91C1C?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white)
-![AWS Polly](https://img.shields.io/badge/AWS_Polly-B91C1C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS Polly](https://img.shields.io/badge/AWS_Polly-111111?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### Machine Learning & Computer Vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-B91C1C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-B91C1C?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-B91C1C?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-B91C1C?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-B91C1C?style=for-the-badge&logo=pandas&logoColor=white)
-![ST-GCN](https://img.shields.io/badge/ST--GCN-111111?style=for-the-badge)
+![ST-GCN](https://img.shields.io/badge/ST--GCN-B91C1C?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-B91C1C?style=for-the-badge&logo=huggingface&logoColor=white)
-![Skeleton Tracking](https://img.shields.io/badge/Skeleton_Tracking-111111?style=for-the-badge)
+![Skeleton Tracking](https://img.shields.io/badge/Skeleton_Tracking-B91C1C?style=for-the-badge)
 
 ### CI/CD, Version Control & Delivery
 
-![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-B91C1C?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-111111?style=for-the-badge&logo=gnu&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-B91C1C?style=for-the-badge&logo=python&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-111111?style=for-the-badge&logo=python&logoColor=white)
 ![Nuitka](https://img.shields.io/badge/Nuitka-111111?style=for-the-badge&logo=python&logoColor=white)
-![cx Freeze](https://img.shields.io/badge/cx_Freeze-B91C1C?style=for-the-badge&logo=python&logoColor=white)
+![cx Freeze](https://img.shields.io/badge/cx_Freeze-111111?style=for-the-badge&logo=python&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git_LFS-111111?style=for-the-badge&logo=gitlfs&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-B91C1C?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows11&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-B91C1C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 Branch-based development, pull requests, build automation, application packaging, and release preparation.
@@ -84,21 +84,21 @@ Branch-based development, pull requests, build automation, application packaging
 ### Core Engineering
 
 ![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented_Programming-B91C1C?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading-111111?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-B91C1C?style=for-the-badge)
 ![Multiprocessing](https://img.shields.io/badge/Multiprocessing-B91C1C?style=for-the-badge)
-![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-111111?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-B91C1C?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-B91C1C?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures-111111?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-B91C1C?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-B91C1C?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-111111?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-B91C1C?style=for-the-badge)
 ![UI UX](https://img.shields.io/badge/UI_UX-B91C1C?style=for-the-badge&logo=figma&logoColor=white)
-![Agile Development](https://img.shields.io/badge/Agile_Development-111111?style=for-the-badge&logo=jira&logoColor=white)
+![Agile Development](https://img.shields.io/badge/Agile_Development-B91C1C?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Currently Expanding
 
-![AngularJS](https://img.shields.io/badge/AngularJS-B91C1C?style=for-the-badge&logo=angularjs&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-111111?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-B91C1C?style=for-the-badge&logo=servicenow&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-111111?style=for-the-badge&logo=servicenow&logoColor=white)
 
 <img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
@@ -136,8 +136,8 @@ Branch-based development, pull requests, build automation, application packaging
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxShuford&show_icons=true&hide_border=false&rank_icon=github&bg_color=050505&title_color=ef4444&text_color=f3f4f6&icon_color=dc2626&border_color=7f1d1d" alt="Max Shuford GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxShuford&layout=compact&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=050505&title_color=ef4444&text_color=f3f4f6&border_color=7f1d1d" alt="Max Shuford most-used languages"/>
+<img width="49%" src="./assets/stats/github-stats.svg" alt="Max Shuford GitHub statistics"/>
+<img width="49%" src="./assets/stats/top-languages.svg" alt="Max Shuford most-used languages"/>
 
 </div>
 
