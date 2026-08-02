@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Max Shuford profile header</title>
+  <desc id="desc">Minimal black and red profile header displaying Max Shuford.</desc>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#7f1d1d"/>
+    </linearGradient>
+    <style>
+      .name {
+        fill: #ffffff;
+        font: 700 64px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+        letter-spacing: 0.5px;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="230" fill="#050505"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <rect x="0" y="226" width="1200" height="4" fill="url(#accent)"/>
+
+  <rect x="88" y="62" width="5" height="106" fill="#dc2626"/>
+  <text x="122" y="139" class="name">Max Shuford</text>
+</svg>

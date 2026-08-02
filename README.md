@@ -1,136 +1,147 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0369a1,100:22d3ee&height=220&section=header&text=Max%20Shuford&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Vision%20%7C%20Systems%20%7C%20Cybersecurity&descAlignY=57&descSize=17" alt="Max Shuford header"/>
+<img width="100%" src="./assets/profile-header.svg" alt="Max Shuford software engineering profile header"/>
 
 <div align="center">
 
-### Building practical software from algorithms to user interfaces
+### Software engineering with a systems mindset
 
-Computer Science graduate from **Central Washington University** focused on  
-**software engineering, computer vision, machine learning, systems, and optimization**.
+Computer Science graduate from **Central Washington University** building  
+**maintainable applications, developer tooling, computer-vision systems, and optimization software**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MaxShuford-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxShuford)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Shuford-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-shuford/)
+[![GitHub](https://img.shields.io/badge/GitHub-MaxShuford-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxShuford)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Shuford-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-shuford/)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
 ## About Me
 
 - 2026 Computer Science graduate from Central Washington University
-- Interested in software engineering, computer vision, machine learning, systems, and cybersecurity
-- Collaborated on **SpeakSL**, an ASL-to-speech desktop application
-- Built an **Ant Colony Optimization with NEH seeding** optimization algorithm for researching FSS and FSSWB
-- dabbling in debugging **Java/RuneLite plugins**, event systems, and desktop UI integrations
-- Experienced with multithreading, background workers, modular integration, and application packaging
-- I enjoy solving difficult technical problems!
+- Principal developer on **SpeakSL**, an ASL-to-speech desktop application
+- Experienced in multithreading, modular integration, optimization, Java/RuneLite plugins, and desktop packaging
+- Focused on turning complex, interconnected systems into software that is easier to understand, maintain, and ship
 
----
+<img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
 ## Technology Stack
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,rust,js,bash&theme=dark" alt="Python, Java, C, C++, Rust, JavaScript, and Bash"/>
-</p>
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge)
-![x86 Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B91C1C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-B91C1C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-B91C1C?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-B91C1C?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-B91C1C?style=for-the-badge)
+![x86 Assembly](https://img.shields.io/badge/x86_Assembly-111111?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-B91C1C?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Frameworks, Applications & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=qt,flask,nodejs,html,css,mysql&theme=dark" alt="Qt, Flask, Node.js, HTML, CSS, and MySQL"/>
-</p>
-
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![RuneLite](https://img.shields.io/badge/RuneLite_Plugins-DC8A00?style=for-the-badge&logo=runescape&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![AWS Polly](https://img.shields.io/badge/AWS_Polly-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-B91C1C?style=for-the-badge&logo=qt&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-B91C1C?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B91C1C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-B91C1C?style=for-the-badge&logo=mysql&logoColor=white)
+![RuneLite Plugins](https://img.shields.io/badge/RuneLite_Plugins-111111?style=for-the-badge&logo=runescape&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-B91C1C?style=for-the-badge&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white)
+![AWS Polly](https://img.shields.io/badge/AWS_Polly-B91C1C?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ### Machine Learning & Computer Vision
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="PyTorch and OpenCV"/>
-</p>
-
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![ST-GCN](https://img.shields.io/badge/ST--GCN-7C3AED?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Skeleton Tracking](https://img.shields.io/badge/Skeleton_Tracking-2563EB?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-B91C1C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-B91C1C?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-B91C1C?style=for-the-badge&logo=pandas&logoColor=white)
+![ST-GCN](https://img.shields.io/badge/ST--GCN-111111?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-B91C1C?style=for-the-badge&logo=huggingface&logoColor=white)
+![Skeleton Tracking](https://img.shields.io/badge/Skeleton_Tracking-111111?style=for-the-badge)
 
 ### CI/CD, Version Control & Delivery
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,linux,windows&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Visual Studio, Linux, and Windows"/>
-</p>
+![Git](https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-B91C1C?style=for-the-badge&logo=githubactions&logoColor=white)
+![Make](https://img.shields.io/badge/Make-111111?style=for-the-badge&logo=gnu&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-B91C1C?style=for-the-badge&logo=python&logoColor=white)
+![Nuitka](https://img.shields.io/badge/Nuitka-111111?style=for-the-badge&logo=python&logoColor=white)
+![cx Freeze](https://img.shields.io/badge/cx_Freeze-B91C1C?style=for-the-badge&logo=python&logoColor=white)
+![Git LFS](https://img.shields.io/badge/Git_LFS-111111?style=for-the-badge&logo=gitlfs&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-B91C1C?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows11&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-B91C1C?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-111111?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white)
-![PyInstaller](https://img.shields.io/badge/PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Nuitka](https://img.shields.io/badge/Nuitka-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![cx_Freeze](https://img.shields.io/badge/cx__Freeze-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git LFS](https://img.shields.io/badge/Git_LFS-F64935?style=for-the-badge&logo=gitlfs&logoColor=white)
-
-Branch-based development, pull requests, build workflows, application packaging, and release preparation.
+Branch-based development, pull requests, build automation, application packaging, and release preparation.
 
 ### Core Engineering
 
-`Object-Oriented Programming` · `Multithreading` · `Multiprocessing` · `Dependency Injection`  
-`Algorithms` · `Data Structures` · `Optimization` · `MVC` · `UI/UX` · `Agile Development`
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented_Programming-B91C1C?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-111111?style=for-the-badge)
+![Multiprocessing](https://img.shields.io/badge/Multiprocessing-B91C1C?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-111111?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-B91C1C?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures-111111?style=for-the-badge)
+![Optimization](https://img.shields.io/badge/Optimization-B91C1C?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-111111?style=for-the-badge)
+![UI UX](https://img.shields.io/badge/UI_UX-B91C1C?style=for-the-badge&logo=figma&logoColor=white)
+![Agile Development](https://img.shields.io/badge/Agile_Development-111111?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Currently Expanding
 
-![AngularJS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-B91C1C?style=for-the-badge&logo=angularjs&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-111111?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-B91C1C?style=for-the-badge&logo=servicenow&logoColor=white)
 
----
+<img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
 ## Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/MaxShuford/SpeakSL">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxShuford&repo=SpeakSL&theme=tokyonight&hide_border=true" alt="SpeakSL repository card"/>
-</a>
-<a href="https://github.com/MaxShuford/CS471-Optimization">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxShuford&repo=CS471-Optimization&theme=tokyonight&hide_border=true" alt="CS471 Optimization repository card"/>
-</a>
-
-<a href="https://github.com/MaxShuford/CS480-Code">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxShuford&repo=CS480-Code&theme=tokyonight&hide_border=true" alt="CS480 Code repository card"/>
-</a>
-<a href="https://github.com/MaxShuford/CS456-Final">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxShuford&repo=CS456-Final&theme=tokyonight&hide_border=true" alt="CS456 Final repository card"/>
-</a>
+<a href="https://github.com/MaxShuford/SpeakSL"><img src="./assets/repository-cards/speaksl.svg" width="49%" alt="SpeakSL repository card"/></a>
+<a href="https://github.com/MaxShuford/CS471-Optimization"><img src="./assets/repository-cards/cs471-optimization.svg" width="49%" alt="CS471 Optimization repository card"/></a>
+<br/>
+<a href="https://github.com/MaxShuford/CS480-Code"><img src="./assets/repository-cards/cs480-code.svg" width="49%" alt="CS480 Code repository card"/></a>
+<a href="https://github.com/MaxShuford/CS456-Final"><img src="./assets/repository-cards/cs456-final.svg" width="49%" alt="CS456 Final repository card"/></a>
 
 </div>
 
-**SpeakSL** — ASL-to-speech desktop application using PyQt5, OpenCV, MediaPipe, PyTorch, ST-GCN, AWS Polly, and background worker threads.
+<details>
+<summary><strong>Additional Coursework Repositories</strong></summary>
 
-**Ant Colony Optimization with NEH Seeding** — C-based scheduling optimizer combining ant colony search with NEH-generated seed solutions.
+<br/>
 
-**Directions Application** — Collaborative Rust route-planning application focused on modular architecture and software requirements.
+<div align="center">
 
----
+<a href="https://github.com/MaxShuford/CS480-Project"><img src="./assets/repository-cards/cs480-project.svg" width="49%" alt="CS480 Project repository card"/></a>
+<a href="https://github.com/MaxShuford/CS470"><img src="./assets/repository-cards/cs470.svg" width="49%" alt="CS470 repository card"/></a>
+<br/>
+<a href="https://github.com/MaxShuford/CS456"><img src="./assets/repository-cards/cs456.svg" width="49%" alt="CS456 repository card"/></a>
+
+</div>
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxShuford&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Max Shuford GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxShuford&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Max Shuford most-used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxShuford&show_icons=true&hide_border=false&rank_icon=github&bg_color=050505&title_color=ef4444&text_color=f3f4f6&icon_color=dc2626&border_color=7f1d1d" alt="Max Shuford GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxShuford&layout=compact&langs_count=8&hide_border=false&size_weight=0.5&count_weight=0.5&bg_color=050505&title_color=ef4444&text_color=f3f4f6&border_color=7f1d1d" alt="Max Shuford most-used languages"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
 <div align="center">
 
@@ -140,4 +151,4 @@ Branch-based development, pull requests, build workflows, application packaging,
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:0369a1,100:0f172a&height=110&section=footer" alt="Footer wave"/>
+<img width="100%" src="./assets/profile-footer.svg" alt="Black and crimson profile footer"/>
