@@ -6,7 +6,6 @@ Computer Science graduate from **Central Washington University**
 
 **Software Engineering, Computer Vision, Machine Learning, Systems, and Optimization**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MaxShuford-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxShuford)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Shuford-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-shuford/)
 
 </div>
