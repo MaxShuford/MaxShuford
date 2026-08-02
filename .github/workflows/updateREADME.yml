@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: '{"layout":"compact","langs_count":8,"size_weight":0.5,"count_weight":0.5,"bg_color":"050505","title_color":"ef4444","text_color":"f3f4f6","border_color":"7f1d1d"}'
+          options: '{"layout":"compact","langs_count":6,"hide":"Jupyter Notebook","size_weight":0.5,"count_weight":0.5,"bg_color":"050505","title_color":"ef4444","text_color":"f3f4f6","border_color":"7f1d1d"}'
           path: assets/stats/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
