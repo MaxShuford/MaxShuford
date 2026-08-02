@@ -2,10 +2,10 @@
 
 <div align="center">
 
-### Software engineering with a systems mindset
+### Software Engineering
 
 Computer Science graduate from **Central Washington University** building  
-**maintainable applications, developer tooling, computer-vision systems, and optimization software**.
+**maintainable applications, java plugins, computer-vision systems, and optimization software, fun projects**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaxShuford-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxShuford)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Shuford-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-shuford/)
@@ -17,9 +17,9 @@ Computer Science graduate from **Central Washington University** building
 ## About Me
 
 - 2026 Computer Science graduate from Central Washington University
-- Principal developer on **SpeakSL**, an ASL-to-speech desktop application
-- Experienced in multithreading, modular integration, optimization, Java/RuneLite plugins, and desktop packaging
-- Focused on turning complex, interconnected systems into software that is easier to understand, maintain, and ship
+- Collaborated on **SpeakSL**, an ASL-to-speech desktop application
+- Experience with multithreading, modular integration, optimization, and desktop packaging
+- Interested in Java/RuneLite plugins debugging, and building helpful software
 
 <img src="./assets/divider.svg" width="100%" alt="Section divider"/>
 
