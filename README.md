@@ -145,8 +145,5 @@ Branch-based development, pull requests, build automation, application packaging
 
 ### Open to software development opportunities and technical collaboration
 
-**Software Engineering · Computer Vision · Machine Learning · Systems · Cybersecurity**
-
 </div>
 
-<img width="100%" src="./assets/profile-footer.svg" alt="Black and crimson profile footer"/>
