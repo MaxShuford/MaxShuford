@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0369a1,100:22d3ee&height=230&section=header&text=Max%20Shuford&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Vision%20%7C%20Systems%20%7C%20Cybersecurity&descAlignY=57&descSize=17" alt="Max Shuford header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0369a1,100:22d3ee&height=230&section=header&text=Max%20Shuford&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Vision%20%7C%20Systems%20%7C%20Cybersecurity&descAlignY=57&descSize=17" alt="Max Shuford header"/>
 
 <div align="center">
 
