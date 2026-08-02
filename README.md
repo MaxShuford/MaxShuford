@@ -17,12 +17,12 @@ Computer Science graduate from **Central Washington University** focused on
 ## About Me
 
 - 2026 Computer Science graduate from Central Washington University
-- - Interested in software engineering, computer vision, machine learning, systems, and cybersecurity
-  - - Collaborated on **SpeakSL**, an ASL-to-speech desktop application
-    - - Built an **Ant Colony Optimization with NEH seeding** optimization algorithm for researching FSS and FSSWB
-      - - dabbling in debugging **Java/RuneLite plugins**, event systems, and desktop UI integrations
-        - - Experienced with multithreading, background workers, modular integration, and application packaging
-          - - I enjoy solving difficult technical problems!
+- Interested in software engineering, computer vision, machine learning, systems, and cybersecurity
+- Collaborated on **SpeakSL**, an ASL-to-speech desktop application
+- Built an **Ant Colony Optimization with NEH seeding** optimization algorithm for researching FSS and FSSWB
+- dabbling in debugging **Java/RuneLite plugins**, event systems, and desktop UI integrations
+- Experienced with multithreading, background workers, modular integration, and application packaging
+- I enjoy solving difficult technical problems!
 
 ---
 
