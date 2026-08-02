@@ -141,10 +141,3 @@ Branch-based development, pull requests, build workflows, application packaging,
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:0369a1,100:0f172a&height=110&section=footer" alt="Footer wave"/>
-'''
-
-output = Path("/mnt/data/README.md")
-output.write_text(readme, encoding="utf-8")
-
-print(f"Created {output}")
-print(f"Condensed to {len(readme.splitlines())} lines")
